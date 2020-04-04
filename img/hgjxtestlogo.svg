@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="hgjxtestlogo.svg"
+   inkscape:export-filename="C:\Users\a_col\Desktop\hgjxtestlogo.svg.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-64.285714"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-text-baseline="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20.95744705px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.52393615"
+       x="67.836533"
+       y="94.758453"
+       id="text817"><tspan
+         sodipodi:role="line"
+         id="tspan815"
+         x="67.836533"
+         y="94.758453"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.53191376px;font-family:'Lobster 1.4';-inkscape-font-specification:'Lobster 1.4, ';stroke-width:0.52393615">HyghJnyx</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.07362139;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path819"
+       sodipodi:sides="8"
+       sodipodi:cx="34.017853"
+       sodipodi:cy="84.577378"
+       sodipodi:r1="7.9727683"
+       sodipodi:r2="30.403879"
+       sodipodi:arg1="0.25732348"
+       sodipodi:arg2="0.65002256"
+       inkscape:flatsided="false"
+       inkscape:rounded="0.042546041"
+       inkscape:randomized="0"
+       d="m 41.728114,86.606392 c -0.251626,0.956179 17.091745,15.584448 16.493359,16.371548 -0.598386,0.7871 -19.332324,-12.012049 -20.186372,-11.513855 -0.854047,0.498195 1.065823,23.105555 0.08614,23.238995 C 37.141548,114.83652 32.945018,92.539265 31.988838,92.287639 31.032659,92.036013 16.404394,109.37938 15.617292,108.781 14.830191,108.18261 27.629339,89.448673 27.131145,88.594626 26.63295,87.740578 4.0255896,89.660448 3.8921476,88.68076 3.7587055,87.701073 26.055965,83.504543 26.307591,82.548363 26.559217,81.592183 9.2158461,66.963919 9.8142323,66.176817 10.412618,65.389715 29.146557,78.188864 30.000604,77.690669 30.854652,77.192475 28.934782,54.585114 29.91447,54.451672 c 0.979688,-0.133442 5.176217,22.163818 6.132397,22.415444 0.95618,0.251626 15.584444,-17.091745 16.371546,-16.493359 0.787102,0.598386 -12.012047,19.332324 -11.513852,20.186372 0.498195,0.854047 23.105555,-1.065823 23.238997,-0.08613 0.133442,0.979688 -22.163818,5.176218 -22.415444,6.132398 z"
+       inkscape:transform-center-y="-6.0110185e-006"
+       inkscape:transform-center-x="1.2715658e-006" />
+  </g>
+</svg>
